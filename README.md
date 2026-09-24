@@ -76,7 +76,7 @@ Busco uma oportunidade como Desenvolvedor Front-end Júnior, onde possa aplicar 
 
 💻 GitHub: github.com/GabrielDario
 
-🌐 Portfólio: Em desenvolvimento
+🌐 Portfólio: [gabrieldariodev.com.br](https://gabrieldariodev.com.br/ ) Em desenvolvimento
 
 <div align="center">
 🚀 Construindo projetos, aprendendo tecnologias e evoluindo todos os dias.
