@@ -1,18 +1,18 @@
-👋 Olá! Eu sou [Gabriel Dario da Rosa]
+👋 Olá! Eu sou Gabriel Dario da Rosa<br>
 💻 Desenvolvedor Front-end Júnior
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-⚛️ Focado em React, JavaScript e TypeScript
-🌐 Apaixonado por desenvolvimento Web
-🚀 Sempre buscando aprender e construir novos projetos
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+⚛️ Focado em React, JavaScript e TypeScript<br>
+🌐 Apaixonado por desenvolvimento Web<br>
+🚀 Sempre buscando aprender e construir novos projetos<br>
 
-🧑‍💻 Sobre mim
+## 👨‍💻 💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FMP e desenvolvedor com formação em Desenvolvimento de Sistemas pelo SENAI e Técnico em Informática para Internet pelo SENAC.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FMP** e desenvolvedor com formação em **Desenvolvimento de Sistemas pelo SENAI** e **Técnico em Informática para Internet pelo SENAC**.
 
-Tenho interesse principalmente em desenvolvimento Front-end, utilizando tecnologias como HTML, CSS, JavaScript, TypeScript e React.
+Tenho interesse principalmente em **desenvolvimento Front-end**, utilizando tecnologias como **HTML**, **CSS**, **JavaScript**, **TypeScript** e **React**.
 
-Também possuo conhecimentos em bancos de dados, integração com APIs e desenvolvimento Backend.
+Também possuo conhecimentos em bancos de dados, integração com **APIs** e desenvolvimento **Backend**.
 
 Atualmente estou focado em aprimorar minhas habilidades e construir projetos que possam fazer parte do meu portfólio profissional.
 
@@ -39,67 +39,23 @@ Conhecimentos
 
 📱 Desenvolvimento Mobile
 
-🧠 Lógica de programação
-
-📂 Projetos em destaque
-🎓 Sistema de Gerenciamento de Alunos
+🧠 Lógica de programação <br><br>
 
 
+🎓 **Formação**<br>
 
-🔗 Ver projeto
-
-⚛️ Projetos React
-
-Projetos desenvolvidos para praticar desenvolvimento Front-end moderno.
-
-Principais conceitos:
-
-React
-
-Hooks
-
-Componentização
-
-Props
-
-TypeScript
-
-JavaScript
-
-Consumo de APIs
-
-Responsividade
-
-🔗 Ver projetos
-
-🌐 Projetos Web
-
-Projetos desenvolvidos utilizando tecnologias fundamentais da Web.
-
-Tecnologias:
-
-HTML CSS JavaScript PHP
-
-🔗 Ver projetos
-
-🎓 Formação
-Análise e Desenvolvimento de Sistemas
 
 FMP
-
-📅 Cursando — conclusão prevista para 08/2028
-
-Desenvolvimento de Sistemas
+📅 Cursando — Análise e Desenvolvimento de Sistemas - conclusão prevista para 08/2028
 
 SENAI
-
-📅 2022 — 2024
-
-Técnico em Informática para Internet
+📅 2022 — 2024 Desenvolvimento de Sistemas
 
 SENAC
+📅 2014 — 2016 Técnico em Informática para Internet
 
-📅 2014 — 2016
+
+
 
 📈 Atualmente estudando
 React
